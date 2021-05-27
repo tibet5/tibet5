@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tibet5
-- 👀 I’m interested in 
+
+<!-- 👀 I’m interested in -->
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+<!-- 💞️ I’m looking to collaborate -->
 - 📫 How to reach me <a href="mailto:tibetcelik2@gmail.com">tibetcelik2@gmail.com</a>
 
 <!---
